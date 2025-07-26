@@ -1,8 +1,8 @@
-plotly.express
+plotly
 streamlit
 pandas
 numpy
 altair
 wordcloud
-matplotlib.pyplot
+matplotlib
 seaborn
